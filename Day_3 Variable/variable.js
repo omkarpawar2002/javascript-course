@@ -154,11 +154,11 @@ console.log(updated_id);
 /*
     Scope : 
         Scope is the region or are where we access the variable.
-        1.Global Scope [ Function Scope ]
+        1.Global Scope
         2.Local Scope 
 
     Global Scope :
-        The variable which are declare in global scope can be accessable anywhere in module.
+        variables declared outside any function are accessible everywhere.
 
     Local Scope :
         The variable which are declare in block having local scope.
